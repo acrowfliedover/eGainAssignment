@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/acrowfliedover/eGainAssignment/compare/v1.0.0...v1.1.0) (2025-09-19)
+
+
+### Features
+
+* **readme:** updating screenshots and introduction ([ddb61c6](https://github.com/acrowfliedover/eGainAssignment/commit/ddb61c62d2daee72bfccc73cc690e78b30b7d22b))
+
 # 1.0.0 (2025-09-19)
 
 
