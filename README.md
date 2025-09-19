@@ -2,6 +2,22 @@
 
 A modern Next.js 15+ application with TypeScript, Tailwind CSS, authentication, and database integration.
 
+## Screenshots
+
+![eGain Flow Chart](./images/eGain0.png)
+![eGain Screenshot 2](./images/eGain1.png)
+![eGain Screenshot 3](./images/eGain2.png)
+![eGain Screenshot 4](./images/eGain3.png)
+
+## Introduction
+
+I'm thinking about a creative way to to this project, and I thought about why not just use eGain's products and guiding a customer to choose the right product? I tried out eGain's AI Agent for some inspiration.
+
+I asked it about eGain's products, and it could only provide me with two products: AI Agent and AI Knowledge Hub, so after gathering some more details about the products and their pricing model I decided to implement them into my chatbot project.
+
+I designed the decision tree and implemented in Cursor. It helped greatly setting up a basic project so I can just add my modifications.
+I add the input number step so there is potential human input instead of just selection. And there is a way to show error management.
+
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
@@ -65,5 +81,3 @@ npx kill-port 3000
 This project uses **Next.js 15.1.0** with the App Router. Make sure you have Node.js 20+ for optimal compatibility.
 
 ---
-
-**Happy coding! 🚀**
