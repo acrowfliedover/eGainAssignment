@@ -1,3 +1,10 @@
+# 1.0.0 (2025-09-19)
+
+
+### Features
+
+* **chatbot:** functional decision tree ([4313ed1](https://github.com/acrowfliedover/eGainAssignment/commit/4313ed1b68028df5f0767329d2756a0cbaa3cbea))
+
 ## [3.60.4](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.60.3...v3.60.4) (2024-12-16)
 
 
